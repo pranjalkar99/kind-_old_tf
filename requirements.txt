@@ -1,0 +1,6 @@
+numpy
+Pillow==10.3.0
+scipy==1.13.0
+scikit-image
+skimage==0.22.0
+
